@@ -1,8 +1,8 @@
 # AI Code Review Assignment (Python)
 
 ## Candidate
-- Name: [Your Name]
-- Approximate time spent: 45 mins
+- Name: Eyob Amare Tesfaye
+- Approximate time spent: 25 mins
 
 ---
 
@@ -146,4 +146,5 @@ If you were to test this function, what areas or scenarios would you focus on, a
 - Decision: Reject
 - Justification: The function had critical logic errors (average calculation) and runtime errors (handling mixed types) that directly contradicted its stated purpose.
 - Confidence & unknowns: High.
+
 
